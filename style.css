@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    text-align: center;
+  }
+
+#tabela{
+    align-items: center;
+    margin: 0 auto;
+   
+}
+
+
+
+h1{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.nav-titulo{
+    font-size: 20px;
+}
+
+

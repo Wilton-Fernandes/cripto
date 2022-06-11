@@ -1,1 +1,1 @@
-# cripto
+# Projeto cotação de criptomoedas

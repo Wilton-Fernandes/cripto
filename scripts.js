@@ -29,7 +29,7 @@ function criaTabela(){
         nome.innerText = lista[i].nome
         
         var img = document.createElement("IMG");  
-        img.src = 'https://github.com/Wilton-Fernandes/cripto/iconesCripto/'+ lista[i].sigla + '.png'; 
+        img.src = 'https://wilton-fernandes.github.io/cripto/iconesCripto/'+ lista[i].sigla + '.png'; 
         img.width="64" 
         logo.appendChild(img);
 
